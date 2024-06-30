@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1643428170 source:c:\users\user\desktop\emina sehbajraktarevic - projekat 2\stablo\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1643428456 c:\users\user\desktop\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1643428552 c:\users\user\desktop\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643428552 source:c:\users\user\desktop\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643428170 source:c:\users\user\desktop\emina\fakultet\emina sehbajraktarevic - projekat 2\stablo\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1643428456 c:\users\user\desktop\emina\fakultet\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1643428552 c:\users\user\desktop\emina\fakultet\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643428552 source:c:\users\user\desktop\emina\fakultet\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643770372 source:c:\users\user\desktop\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643428456 c:\users\user\desktop\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1643773982 c:\users\user\desktop\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643761291 source:c:\users\user\desktop\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1643761291 source:c:\users\user\desktop\emina\fakultet\fax 1234\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1643428456 c:\users\user\desktop\emina\fakultet\fax 1234\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1643773982 c:\users\user\desktop\emina\fakultet\fax 1234\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643773982 source:c:\users\user\desktop\emina\fakultet\fax 1234\v semestar\strukture podataka i algoritmi\projekti\2021\projekat 2\emina sehbajraktarevic - projekat 2\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643764892 source:c:\users\muvin\desktop\emina\projekti\treap(balansirano binarno stablo pretrage) c++\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1643432058 c:\users\muvin\desktop\emina\projekti\treap(balansirano binarno stablo pretrage) c++\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1643777584 c:\users\muvin\desktop\emina\projekti\treap(balansirano binarno stablo pretrage) c++\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1643777584 source:c:\users\muvin\desktop\emina\projekti\treap(balansirano binarno stablo pretrage) c++\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
+1716247026 source:c:\users\muvin\desktop\emina\projekti\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1716405639 c:\users\muvin\desktop\emina\projekti\stablo\stablo.h
+	<iostream>
+	<utility>
+	"stablo.cpp"
+
+1719615189 c:\users\muvin\desktop\emina\projekti\stablo\stablo.cpp
+	"stablo.h"
+	<utility>
+
